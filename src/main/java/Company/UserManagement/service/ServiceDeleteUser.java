@@ -1,7 +1,6 @@
 package Company.UserManagement.service;
 
 import Company.UserManagement.repository.UsersRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 
